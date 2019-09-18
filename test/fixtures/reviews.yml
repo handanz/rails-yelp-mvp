@@ -3,7 +3,9 @@
 one:
   content: MyText
   rating: 1
+  restaurant_id: one
 
 two:
   content: MyText
   rating: 1
+  restaurant_id: two
